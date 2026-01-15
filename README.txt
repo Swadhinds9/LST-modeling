@@ -37,5 +37,5 @@ Most important predictors:
 ## Files
 - `LST_modeling.ipynb` – full analysis
 - `LST.csv` – dataset
-- `figures/` – output plots
+
 
